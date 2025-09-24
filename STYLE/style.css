@@ -1,0 +1,12 @@
+.rem-cont{
+    background-color: rgba(21, 22, 21, 0.233);
+   
+} 
+
+.main-rem figure{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+margin: 30px;}
+    
