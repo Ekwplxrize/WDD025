@@ -19,4 +19,7 @@ border-color: aqua;}
     border: 10px solid aqua;
     box-shadow: 10px 10px 5px grey;
 }
+.main-rem div{
+    gap: 10%;
+}
     
