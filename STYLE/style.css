@@ -16,8 +16,7 @@ border-color: aqua;}
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 10px solid aqua;
-    box-shadow: 10px 10px 5px grey;
+   
 }
 .main-rem div{
     gap: 10%;
